@@ -1,3 +1,4 @@
-name: thao doan
+name: metasploit help
+description: learn how to metasploit hard
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
